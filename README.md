@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @KSH-beginner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- # 📫 How to reach me ...
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&section=header&height=200&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
 
 
@@ -52,6 +45,7 @@
 
 <div align=center> 
    <h3 align="center"> 🔎 GitHub Stats 🔎 </h3>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSH-beginner&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
