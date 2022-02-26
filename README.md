@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
-
-<br />
   
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <h5 align="center">Techs that I've used at least once</h5>
