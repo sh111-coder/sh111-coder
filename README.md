@@ -5,7 +5,7 @@
 - # 📫 How to reach me ...
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&height=200&section=header&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&section=header&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
   
 <h3 align="center"> 🛠 MarkUp & Style sheet Language 🛠 </h3>
