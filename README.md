@@ -7,8 +7,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&section=header&height=200&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKSH-beginner&count_bg=%23E35387&title_bg=%23C2BFF4&icon=googleanalytics.svg&icon_color=%23FFFFFF&title=Views%2B&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div align="right">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKSH-beginner&count_bg=%23E35387&title_bg=%23C2BFF4&icon=googleanalytics.svg&icon_color=%23FFFFFF&title=Views%2B&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+  
 <h3 align="center"> 🛠 MarkUp & Style sheet Language 🛠 </h3>
 
 <p align="center"> 
