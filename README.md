@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&height=200&section=header&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff)
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-green?style=flat&logo=#3776AB&logoColor=whtie />
+<img src="https://img.shields.io/badge/Python-green?style=flat&logo=#3776AB&logoColor=whtie" />
 ## 🛠 Tech Stack 🛠
 <!---
 KSH-beginner/KSH-beginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
