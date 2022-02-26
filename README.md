@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - # 📫 How to reach me ...
 
+<div align = "center">
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&height=200&section=header&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff)
-
+</div>
+  
 <h3 align="center"> 🛠 MarkUp & Style sheet Language 🛠 </h3>
 
 <p align="center"> 
