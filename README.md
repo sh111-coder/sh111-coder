@@ -24,9 +24,12 @@
   
 <h3 align="center">🙋‍♂️ more Infomation</h3>
 <p align="center">
+<a href="https://velog.io/@ohk9134"><img src="https://img.shields.io/badge/ohk9l34@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ohk9l34@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ohk9133@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
   
+
 <!---
 KSH-beginner/KSH-beginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
