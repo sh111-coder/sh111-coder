@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&height=200&section=header&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
-## 🛠 MarkUp & Style sheet Language 🛠
+<h3 align="centet"> 🛠 MarkUp & Style sheet Language 🛠 </h3>
 
 <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
