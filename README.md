@@ -6,11 +6,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&height=200&section=header&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
-<h3 align="centet"> 🛠 MarkUp & Style sheet Language 🛠 </h3>
+<h3 align="center"> 🛠 MarkUp & Style sheet Language 🛠 </h3>
 
-<img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp
+<p align="center"> 
+<img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-
+</p>
+  
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
