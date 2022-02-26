@@ -43,11 +43,11 @@
 </br>
 </br>
 <div align=center> 
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohk9134)](https://solved.ac/ohk9134)
+  <span>  
+      [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohk9134)](https://solved.ac/ohk9134)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSH-beginner)](https://github.com/anuraghazra/github-readme-stats)
-  
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSH-beginner)](https://github.com/anuraghazra/github-readme-stats)
+  </span>
 </div>
 
 
