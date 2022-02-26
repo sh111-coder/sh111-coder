@@ -5,7 +5,7 @@
 - # 📫 How to reach me ...
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&height=200&section=header&text=KSH-beginner&fontSize=50&animation=fadeIn&fontColor=ffffff)
-
+<img src="https://img.shields.io/badge/android-ffffff />
 ## 🛠 Tech Stack 🛠
 <!---
 KSH-beginner/KSH-beginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
