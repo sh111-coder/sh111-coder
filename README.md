@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - # 📫 How to reach me ...
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=KSH-beginner&fontSize=40&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:9796f0,100:fbc7d4&height=200&section=header&text=KSH-beginner&fontSize=40&textBg=true&animation=fadeIn)
 
 ## 🛠 Tech Stack 🛠
 <!---
