@@ -22,6 +22,9 @@
 <img src="https://img.shields.io/badge/MySQL-dd8b00?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
   
+<h3 align="center">🙋‍♂️ more Infomation</h3>
+<img src="https://img.shields.io/badge/ohk9133@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
 <!---
 KSH-beginner/KSH-beginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
