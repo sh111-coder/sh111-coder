@@ -17,7 +17,7 @@
   
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <p align="center"> 
-  <p>Techs that I've used at least once</p>
+  <h4>Techs that I've used at least once</h4>
  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
