@@ -9,7 +9,7 @@
 ## 🛠 MarkUp & Style sheet Language 🛠
 
 <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
