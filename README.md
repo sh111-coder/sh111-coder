@@ -45,10 +45,13 @@
 
 <div align=center> 
   <h3 align="center"> 💡 Algorithm Practice 💡 </h3>
+  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohk9134)](https://solved.ac/ohk9134)
+  
 </div>
 
 <div align=center> 
+   <h3 align="center"> 🔎 GitHub Stats 🔎 </h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSH-beginner&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
