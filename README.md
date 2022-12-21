@@ -44,7 +44,6 @@
   
 <h3 align="center">🙋‍♂️ more Infomation 🙋‍♂️</h3>
 <p align="center">
-<a href="https://velog.io/@ohk9134" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://ksh-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ohk9134@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ohk9133@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
