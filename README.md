@@ -20,7 +20,7 @@
 <div align=center> 
    <h3 align="center"> 🔎 GitHub Stats 🔎 </h3>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSH-beginner&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh111-coder&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
