@@ -1,4 +1,5 @@
-![image](https://github.com/sh111-coder/sh111-coder/assets/95729738/8f30f914-f76a-4f7d-9a70-f743fa6dfdb6)<div align="center">
+
+<div align="center">
   <h3>👋🏻 Introduce 👋🏻</h3>
   <strong>꾸준함을 통해 성장하는 백엔드 개발자, 김성훈입니다.</strong>
 </div>
