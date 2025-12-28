@@ -17,24 +17,6 @@
 <br />
 <br />
 
-<!--
-<div align=center> 
-  <h3 align="center"> 💡 Algorithm Practice 💡 </h3>
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohk9134)](https://solved.ac/ohk9134)
-  
-</div>
-
-<br />
--->
-
-<div align=center> 
-   <h3 align="center"> 🔎 GitHub Stats 🔎 </h3>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh111-coder&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 
 <!---
 KSH-beginner/KSH-beginner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
